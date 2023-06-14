@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif !important;
+}
+/* nav section start */
+a:hover {
+    text-decoration: underline blue;
+}
+.background-yellow {
+    background-color: #FAD725;
+}
+/* nav section end */
+
+/* hero section start */
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem !important;
+}
+
+/* hero section end */
